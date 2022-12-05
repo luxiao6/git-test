@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello Git3!");
         System.out.println("Hello Git4!");
         System.out.println("master test");
+        System.out.println("Hotfixtest");
     }
 }
